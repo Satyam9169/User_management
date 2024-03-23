@@ -12,7 +12,6 @@
 
 #NAME
 #EMAIL
-#FEMALE
 #MOBILE_NO
 #GENDER
 
@@ -26,7 +25,7 @@
 # 3) After Login
 ![image](https://github.com/Satyam9169/User_management/assets/38384042/7aaef9a3-6d1c-427c-8d9d-6d02a2432832)
 
-# 4) When you clicked on userdata you can search or filter based on name, email, phone_no, email and gender
+# 4) When you clicked on userdata you can search or filter based on name, email, phone_no and gender
 ![image](https://github.com/Satyam9169/User_management/assets/38384042/d7fce987-8e3b-4eab-8f3d-60f22e2342d0)
 
 # 5) When User click on profile button
